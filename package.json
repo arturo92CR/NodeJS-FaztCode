@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-fazt",
+  "version": "1.0.0",
+  "description": "primer modulo node",
+  "main": "FS-Read-NodeMod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "faxtcode"
+  ],
+  "author": "walter",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
